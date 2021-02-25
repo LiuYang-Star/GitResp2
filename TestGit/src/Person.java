@@ -11,5 +11,6 @@ public class Person {
     private double height;
     private int b;
     private int a;
+    private int c;
     private int d;
 }
